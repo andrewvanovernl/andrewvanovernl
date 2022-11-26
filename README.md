@@ -1,7 +1,7 @@
 - Hi 👋 My name is Andrew VanOver
 - I'm an aspiring Front-End Developer 👍
 - 🌍 I'm based in Tilburg, Netherlands
--  See my Updated portfolio here! Much more styling [https://subtle-tapioca-8e00d2.netlify.app/](https://comfy-unicorn-fdc87c.netlify.app/)
+-  See my updated portfolio here! Much more styling [https://subtle-tapioca-8e00d2.netlify.app/](https://comfy-unicorn-fdc87c.netlify.app/)
 - See my old portfolio with live demos at https://lustrous-bavarois-5a9a5e.netlify.app/
 - 📫  You can contact me at AndrewVanoverNL@gmail.com
 - 🧠 I'm learning Back-End Development, PHP, and more React
