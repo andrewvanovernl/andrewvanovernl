@@ -28,7 +28,6 @@ You can click the Preview link to take a look at your changes.
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript" **alt="TS" width="40" height="40" />  
    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
        title="Canva" />
-  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" **alt="TS" width="40" height="40"  />
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" **alt="TS" width="40" height="40"  />
