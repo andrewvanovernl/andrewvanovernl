@@ -2,7 +2,6 @@
 - I'm an Junior Front-End Developer 👍
 - 🌍 I'm based in Tilburg, Netherlands
 -  See my updated portfolio here! Much more styling with live demos. https://comfy-unicorn-fdc87c.netlify.app/
-- See my old portfolio with live demos at https://lustrous-bavarois-5a9a5e.netlify.app/
 - 📫  You can contact me at AndrewVanoverNL@gmail.com
 - 🧠 I'm learning Back-End Development, PHP, and more React
 - I am a hard worker and I am spending all my time coding!
