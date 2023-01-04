@@ -1,5 +1,7 @@
 - Hi 👋 My name is Andrew VanOver
 - I'm an Junior Front-End Developer 👍
+- ❤️ I love Amsterdam
+- ⚡ Fun fact: World Traveler  
 - 🌍 I'm based in Tilburg, Netherlands
 -  See my updated portfolio here! Much more styling with live demos. https://comfy-unicorn-fdc87c.netlify.app/
 - 📫  You can contact me at AndrewVanoverNL@gmail.com
